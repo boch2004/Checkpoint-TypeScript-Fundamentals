@@ -1,7 +1,7 @@
 
 import { useState } from 'react'
 import './App.css'
-import InputField from './components/inputField'
+import InputField from './components/InputField'
 import Todolist from './components/Todolist'
 export interface Todo{
   id:number,
